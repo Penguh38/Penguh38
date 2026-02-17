@@ -1,50 +1,98 @@
-<div align="center">
-
 # Hey, I'm Pengu 👋
 
-**Full-Stack Developer · Security Solutions · AI Integration**
+**Full-stack developer** from Slovenia 🇸🇮 building web apps, visualizers, and interactive experiences.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Penguh38-181717?style=flat-square&logo=github)](https://github.com/Penguh38)
-[![Location](https://img.shields.io/badge/📍-Slovenia-blue?style=flat-square)]()
-
-</div>
+I enjoy turning ideas into polished products — from security platforms to audio visualizers with synced lyrics.
 
 ---
 
-### 🛠️ What I Work With
+### 🛠️ Tech I Work With
 
-```
-Backend       Python · Flask · SQLAlchemy · PostgreSQL · REST APIs
-Frontend      HTML/CSS · JavaScript · React · Responsive Design
-AI/ML         Claude AI API · NLP · Prompt Engineering
-DevOps        Git · Railway · Linux · Discord Webhooks
-Databases     PostgreSQL · SQLite · Database Design & Optimization
-```
-
-### 🚀 Featured Projects
-
-**[🛡️ Security AI Analyzer](https://github.com/Penguh38/security-ai-analyzer)** — AI-powered security incident classification system built with React. Uses Claude AI to analyze, classify and prioritize security incidents with real-time dashboard and threat assessment.
-
-**[🔒 ProTech Security Solutions](https://github.com/Penguh38/ProTech-PON)** — Comprehensive security company management platform built with Flask. Features patrol tracking, incident reporting, client management, role-based access control, Discord OAuth, and real-time notifications.
-
-### 📊 What I'm Focused On
-
-- Building production-ready web applications with Python/Flask
-- Integrating AI capabilities into real-world business tools
-- Database architecture and query optimization
-- Security industry software solutions
-
-### ⚡ Quick Facts
-
-- 🔧 I enjoy solving complex backend problems and optimizing database performance
-- 🤖 Experienced with AI API integration and prompt engineering
-- 🌐 Building full-stack applications from database design to deployment
-- 🇸🇮 Based in Slovenia
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 ---
 
-<div align="center">
-  
-*Always building something new.*
+### 📌 Featured Projects
 
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎵 [SoundWaves](https://github.com/Penguh38/sound-waves)
+Real-time audio visualizer with **synced karaoke lyrics**, 4 visualization modes, and AI-powered lyrics generation.
+
+`React` `Web Audio API` `Canvas API` `Claude AI` `lrclib API`
+
+- 🔊 Bars, Circular, Ripple, Galaxy modes
+- 🎤 Microphone + file upload support
+- 📝 Synced lyrics overlay with LRC timestamps
+- 🤖 AI lyrics generation based on audio mood
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛡️ [Security AI Analyzer](https://github.com/Penguh38/security-ai-analyzer)
+AI-powered security incident analysis tool that processes incident reports and provides threat assessments using Claude AI.
+
+`React` `Claude AI API` `Vite` `Security`
+
+- 🔍 Automated threat level classification
+- 📊 Incident pattern analysis
+- 🧠 AI-generated response recommendations
+- 📋 Detailed security reports
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 [QuizArena](https://github.com/Penguh38/quiz-arena)
+Multiplayer quiz game with 120+ questions across 6 categories, streak combos, time bonuses, and a persistent leaderboard.
+
+`React` `Vite` `Web Audio API` `LocalStorage`
+
+- 🏆 5 ranking tiers from Novinec to Mojster
+- ⚡ Streak multiplier system (up to 5×)
+- ⏱️ 15-second timer with time bonus scoring
+- 🎮 Retro-neon arcade aesthetic
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔒 [ProTech Security Solutions](https://github.com/Penguh38/ProTech-PON)
+Full-stack security company management platform with patrol tracking, incident reporting, and role-based access control.
+
+`Python` `Flask` `PostgreSQL` `SQLAlchemy` `Discord OAuth`
+
+- 👥 Employee management with RBAC
+- 📍 Patrol tracking & assignment scheduling
+- 📨 Internal messaging system
+- 🔔 Discord webhook notifications
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Penguh38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penguh38&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9" />
+</p>
+
+---
+
+<sub>🇸🇮 Based in Slovenia · Always building something new</sub>
