@@ -70,7 +70,7 @@ Multiplayer quiz game with 120+ questions across 6 categories, streak combos, ti
 </td>
 <td width="50%" valign="top">
 
-#### 🔒 [ProTech Security Solutions](https://github.com/Penguh38/ProTech-PON)
+#### 🔒 ProTech Security Solutions 🔐
 Full-stack security company management platform with patrol tracking, incident reporting, and role-based access control.
 
 `Python` `Flask` `PostgreSQL` `SQLAlchemy` `Discord OAuth`
