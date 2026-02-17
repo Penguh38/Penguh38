@@ -86,13 +86,4 @@ Full-stack security company management platform with patrol tracking, incident r
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Penguh38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penguh38&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9" />
-</p>
-
----
-
 <sub>🇸🇮 Based in Slovenia · Always building something new</sub>
