@@ -153,6 +153,36 @@ Multiplayer quiz game with 120+ questions across 6 categories, streak combos, ti
 </td>
 </tr>
 <tr>
+<td colspan="2" align="center">
+<a href="https://server-alarm-system.vercel.app">
+  <img src="https://img.shields.io/badge/🚨%20Server%20Alarm%20System-Live%20Demo-e11d48?style=for-the-badge" alt="Server Alarm System"/>
+</a>
+&nbsp;
+<a href="https://github.com/Penguh38/server-alarm-system">
+  <img src="https://img.shields.io/badge/source-Open-e11d48?style=flat" alt="Open Source"/>
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?logo=html5&logoColor=white&style=flat-square)
+![RAGE:MP](https://img.shields.io/badge/RAGE:MP-8B0000?style=flat-square)
+
+Property alarm system for RAGE:MP roleplay servers. Owners install an alarm brand — intruders trigger instant notifications to security factions.
+
+<ul>
+  <li>🚨 Proximity-based intrusion detection</li>
+  <li>🔒 6 alarm brands with tiered subscriptions</li>
+  <li>📡 Instant dispatch to security factions</li>
+  <li>🖥️ Live web dispatch dashboard</li>
+</ul>
+
+</td>
+</tr>
+<tr>
 <td width="50%" align="center">
 <a href="https://www.protechops.net">
   <img src="https://img.shields.io/badge/🔒%20ProTech%20Security%20Solutions-Live%20Platform-dc2626?style=for-the-badge" alt="ProTech Security Solutions"/>
