@@ -116,12 +116,18 @@ Multiplayer quiz game with 120+ questions across 6 categories, streak combos, ti
 </tr>
 <tr>
 <td width="50%" align="center">
-<img src="https://img.shields.io/badge/🔒%20ProTech%20Security%20Solutions-Private%20Project-dc2626?style=for-the-badge" alt="ProTech Security Solutions"/>
+<a href="https://www.protechops.net">
+  <img src="https://img.shields.io/badge/🔒%20ProTech%20Security%20Solutions-Live%20Platform-dc2626?style=for-the-badge" alt="ProTech Security Solutions"/>
+</a>
+<br/>
+<img src="https://img.shields.io/badge/source-Private%20Project-dc2626?style=flat" alt="Private"/>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/Penguh38/caseboard">
-  <img src="https://img.shields.io/badge/🔍%20LSSD%20Case%20Board-View%20Repo-0ea5e9?style=for-the-badge" alt="Case Board"/>
+<a href="https://caseboard-source.vercel.app">
+  <img src="https://img.shields.io/badge/🔍%20Case%20Board-Live%20Demo-0ea5e9?style=for-the-badge" alt="Case Board"/>
 </a>
+<br/>
+<img src="https://img.shields.io/badge/source-Private%20Project-dc2626?style=flat" alt="Private"/>
 </td>
 </tr>
 <tr>
