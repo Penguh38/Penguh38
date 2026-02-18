@@ -12,6 +12,8 @@ I enjoy turning ideas into polished products — from security platforms to audi
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white&style=flat)
 ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -116,7 +118,11 @@ Multiplayer quiz game with 120+ questions across 6 categories, streak combos, ti
 <td width="50%" align="center">
 <img src="https://img.shields.io/badge/🔒%20ProTech%20Security%20Solutions-Private%20Project-dc2626?style=for-the-badge" alt="ProTech Security Solutions"/>
 </td>
-<td width="50%"></td>
+<td width="50%" align="center">
+<a href="https://github.com/Penguh38/caseboard">
+  <img src="https://img.shields.io/badge/🔍%20LSSD%20Case%20Board-View%20Repo-0ea5e9?style=for-the-badge" alt="Case Board"/>
+</a>
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -133,7 +139,21 @@ Full-stack security company management platform with patrol tracking, incident r
 </ul>
 
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+
+<kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>Vercel KV</kbd> <kbd>Vanilla JS</kbd>
+
+Collaborative investigation board for law enforcement roleplay communities. Pin suspects, evidence and locations — connect the dots in real time.
+
+<ul>
+  <li>🗂️ 14 pin types with custom fields</li>
+  <li>🗺️ Interactive map with markers and zones</li>
+  <li>🔗 Connection strings with labels and styles</li>
+  <li>👥 Real-time collaboration via live sync</li>
+  <li>🔗 Share links with view/edit permissions</li>
+</ul>
+
+</td>
 </tr>
 </table>
 
