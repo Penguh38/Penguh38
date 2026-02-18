@@ -1,27 +1,32 @@
-# Hey, I'm Pengu 👋
+<div align="center">
 
-Full-stack developer from Slovenia 🇸🇮 building web apps, visualizers, and interactive experiences.  
-I enjoy turning ideas into polished products — from security platforms to audio visualizers with synced lyrics.
+<h1>Hey, I'm Pengu 👋</h1>
+
+<p>Developer from <img src="https://flagcdn.com/16x12/si.png" alt="Slovenia"/> Slovenia who got into coding through gaming and never stopped.<br>
+I build full-stack web apps, game interfaces, and whatever else catches my interest —<br>
+then actually deploy them and put them in front of real users.</p>
+
+</div>
 
 ---
 
 ### 🛠 Tech I Work With
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white&style=flat)
-![Flask](https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=white&style=flat)
-![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white&style=flat)
-![Discord API](https://img.shields.io/badge/-Discord_API-5865F2?logo=discord&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+![Discord API](https://img.shields.io/badge/Discord_API-5865F2?logo=discord&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -30,20 +35,33 @@ I enjoy turning ideas into polished products — from security platforms to audi
 <table>
 <tr>
 <td width="50%" align="center">
+<a href="https://sound-waves-steel.vercel.app">
+  <img src="https://img.shields.io/badge/🎵%20SoundWaves-Live%20Demo-4f46e5?style=for-the-badge" alt="SoundWaves"/>
+</a>
+<br/>
 <a href="https://github.com/Penguh38/sound-waves">
-  <img src="https://img.shields.io/badge/🎵%20SoundWaves-View%20Repo-4f46e5?style=for-the-badge" alt="SoundWaves"/>
+  <img src="https://img.shields.io/badge/source-Open-4f46e5?style=flat" alt="Open Source"/>
 </a>
 </td>
 <td width="50%" align="center">
+<a href="https://ragemp-roleplay-ui.vercel.app">
+  <img src="https://img.shields.io/badge/🎮%20RAGE:MP%20Roleplay%20UI-Live%20Demo-7c3aed?style=for-the-badge" alt="RAGE:MP Roleplay UI"/>
+</a>
+<br/>
 <a href="https://github.com/Penguh38/ragemp-roleplay-ui">
-  <img src="https://img.shields.io/badge/🎮%20RAGE:MP%20Roleplay%20UI-View%20Repo-7c3aed?style=for-the-badge" alt="RAGE:MP Roleplay UI"/>
+  <img src="https://img.shields.io/badge/source-Open-7c3aed?style=flat" alt="Open Source"/>
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<kbd>React</kbd> <kbd>Vite</kbd> <kbd>Web Audio API</kbd> <kbd>Canvas API</kbd> <kbd>lrclib API</kbd>
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Web Audio API](https://img.shields.io/badge/Web_Audio_API-000000?style=flat-square)
+![Canvas API](https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square)
+![lrclib API](https://img.shields.io/badge/lrclib_API-333?style=flat-square)
 
 Real-time audio visualizer with **synced karaoke lyrics**, 4 visualization modes, and mood-based lyrics generation.
 
@@ -58,7 +76,11 @@ Real-time audio visualizer with **synced karaoke lyrics**, 4 visualization modes
 </td>
 <td width="50%" valign="top">
 
-<kbd>C#</kbd> <kbd>JavaScript</kbd> <kbd>HTML/CSS</kbd> <kbd>RAGE:MP</kbd> <kbd>CEF</kbd>
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?logo=html5&logoColor=white&style=flat-square)
+![RAGE:MP](https://img.shields.io/badge/RAGE:MP-8B0000?style=flat-square)
+![CEF](https://img.shields.io/badge/CEF-4285F4?style=flat-square)
 
 Complete roleplay HUD and interface system for RAGE:MP servers with inventory, phone, ID card, and vehicle systems.
 
@@ -74,20 +96,32 @@ Complete roleplay HUD and interface system for RAGE:MP servers with inventory, p
 </tr>
 <tr>
 <td width="50%" align="center">
+<a href="https://security-ai-analyzer.vercel.app">
+  <img src="https://img.shields.io/badge/🛡%20Security%20AI%20Analyzer-Live%20Demo-059669?style=for-the-badge" alt="Security AI Analyzer"/>
+</a>
+<br/>
 <a href="https://github.com/Penguh38/security-ai-analyzer">
-  <img src="https://img.shields.io/badge/🛡%20Security%20AI%20Analyzer-View%20Repo-059669?style=for-the-badge" alt="Security AI Analyzer"/>
+  <img src="https://img.shields.io/badge/source-Open-059669?style=flat" alt="Open Source"/>
 </a>
 </td>
 <td width="50%" align="center">
+<a href="https://quiz-arena-omega.vercel.app">
+  <img src="https://img.shields.io/badge/🏆%20QuizArena-Live%20Demo-d97706?style=for-the-badge" alt="QuizArena"/>
+</a>
+<br/>
 <a href="https://github.com/Penguh38/quiz-arena">
-  <img src="https://img.shields.io/badge/🏆%20QuizArena-View%20Repo-d97706?style=for-the-badge" alt="QuizArena"/>
+  <img src="https://img.shields.io/badge/source-Open-d97706?style=flat" alt="Open Source"/>
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<kbd>React</kbd> <kbd>Claude AI API</kbd> <kbd>Vite</kbd> <kbd>Security</kbd>
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
+![Claude AI API](https://img.shields.io/badge/Claude_AI_API-CC785C?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
 Security incident analysis tool that processes incident reports and provides threat assessments using Claude AI.
 
@@ -101,7 +135,11 @@ Security incident analysis tool that processes incident reports and provides thr
 </td>
 <td width="50%" valign="top">
 
-<kbd>React</kbd> <kbd>Vite</kbd> <kbd>Web Audio API</kbd> <kbd>LocalStorage</kbd>
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
+![Web Audio API](https://img.shields.io/badge/Web_Audio_API-000000?style=flat-square)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-F7931E?style=flat-square)
 
 Multiplayer quiz game with 120+ questions across 6 categories, streak combos, time bonuses, and a persistent leaderboard.
 
@@ -133,7 +171,12 @@ Multiplayer quiz game with 120+ questions across 6 categories, streak combos, ti
 <tr>
 <td width="50%" valign="top">
 
-<kbd>Python</kbd> <kbd>Flask</kbd> <kbd>PostgreSQL</kbd> <kbd>SQLAlchemy</kbd> <kbd>Discord OAuth</kbd>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![Discord OAuth](https://img.shields.io/badge/Discord_OAuth-5865F2?logo=discord&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 
 Full-stack security company management platform with patrol tracking, incident reporting, and role-based access control.
 
@@ -147,7 +190,11 @@ Full-stack security company management platform with patrol tracking, incident r
 </td>
 <td width="50%" valign="top">
 
-<kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>Vercel KV</kbd> <kbd>Vanilla JS</kbd>
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Vercel KV](https://img.shields.io/badge/Vercel_KV-000000?logo=vercel&logoColor=white&style=flat-square)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?logo=html5&logoColor=white&style=flat-square)
 
 Collaborative investigation board for law enforcement roleplay communities. Pin suspects, evidence and locations — connect the dots in real time.
 
