@@ -33,6 +33,66 @@ then actually deploy them and put them in front of real users.</p>
 ### 🚀 Featured Projects
 
 <table>
+
+<!-- ROW 1: ProTech | Case Board (private) -->
+<tr>
+<td width="50%" align="center">
+<a href="https://www.protechops.net">
+  <img src="https://img.shields.io/badge/🔒%20ProTech%20Security%20Solutions-Live%20Platform-dc2626?style=for-the-badge" alt="ProTech Security Solutions"/>
+</a>
+<br/>
+<img src="https://img.shields.io/badge/source-Private%20Project-dc2626?style=flat" alt="Private"/>
+</td>
+<td width="50%" align="center">
+<a href="https://cb.booskit.dev/?case=5501affc4e804a73c045b3fcbbb6bb03">
+  <img src="https://img.shields.io/badge/🔍%20Case%20Board-Live%20Platform-0ea5e9?style=for-the-badge" alt="Case Board"/>
+</a>
+<br/>
+<img src="https://img.shields.io/badge/source-Private%20Project-dc2626?style=flat" alt="Private"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![Discord OAuth](https://img.shields.io/badge/Discord_OAuth-5865F2?logo=discord&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+
+Full-stack security company management platform with patrol tracking, incident reporting, and role-based access control.
+
+<ul>
+  <li>👥 Employee management with RBAC</li>
+  <li>🚔 Patrol tracking &amp; assignment scheduling</li>
+  <li>💬 Internal messaging system</li>
+  <li>🔔 Discord webhook notifications</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Vercel KV](https://img.shields.io/badge/Vercel_KV-000000?logo=vercel&logoColor=white&style=flat-square)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?logo=html5&logoColor=white&style=flat-square)
+
+Collaborative investigation board for law enforcement roleplay communities. Pin suspects, evidence and locations — connect the dots in real time.
+
+<ul>
+  <li>🗂️ 14 pin types with custom fields</li>
+  <li>🗺️ Interactive map with markers and zones</li>
+  <li>🔗 Connection strings with labels and styles</li>
+  <li>👥 Real-time collaboration via live sync</li>
+  <li>🔗 Share links with view/edit permissions</li>
+</ul>
+
+</td>
+</tr>
+
+<!-- ROW 2: SoundWaves | RAGE:MP -->
 <tr>
 <td width="50%" align="center">
 <a href="https://sound-waves-steel.vercel.app">
@@ -94,6 +154,8 @@ Complete roleplay HUD and interface system for RAGE:MP servers with inventory, p
 
 </td>
 </tr>
+
+<!-- ROW 3: Security AI Analyzer | QuizArena -->
 <tr>
 <td width="50%" align="center">
 <a href="https://security-ai-analyzer.vercel.app">
@@ -152,19 +214,30 @@ Multiplayer quiz game with 120+ questions across 6 categories, streak combos, ti
 
 </td>
 </tr>
+
+<!-- ROW 4: Server Alarm System | GitHub Wrapped -->
 <tr>
-<td colspan="2" align="center">
+<td width="50%" align="center">
 <a href="https://server-alarm-system.vercel.app">
   <img src="https://img.shields.io/badge/🚨%20Server%20Alarm%20System-Live%20Demo-e11d48?style=for-the-badge" alt="Server Alarm System"/>
 </a>
-&nbsp;
+<br/>
 <a href="https://github.com/Penguh38/server-alarm-system">
   <img src="https://img.shields.io/badge/source-Open-e11d48?style=flat" alt="Open Source"/>
 </a>
 </td>
+<td width="50%" align="center">
+<a href="https://github-wrapped-murex.vercel.app">
+  <img src="https://img.shields.io/badge/🎁%20GitHub%20Wrapped-Live%20Demo-f0b429?style=for-the-badge" alt="GitHub Wrapped"/>
+</a>
+<br/>
+<a href="https://github.com/Penguh38/github-wrapped">
+  <img src="https://img.shields.io/badge/source-Open-f0b429?style=flat" alt="Open Source"/>
+</a>
+</td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
@@ -181,63 +254,26 @@ Property alarm system for RAGE:MP roleplay servers. Owners install an alarm bran
 </ul>
 
 </td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://www.protechops.net">
-  <img src="https://img.shields.io/badge/🔒%20ProTech%20Security%20Solutions-Live%20Platform-dc2626?style=for-the-badge" alt="ProTech Security Solutions"/>
-</a>
-<br/>
-<img src="https://img.shields.io/badge/source-Private%20Project-dc2626?style=flat" alt="Private"/>
-</td>
-<td width="50%" align="center">
-<a href="https://caseboard-source.vercel.app">
-  <img src="https://img.shields.io/badge/🔍%20Case%20Board-Live%20Demo-0ea5e9?style=for-the-badge" alt="Case Board"/>
-</a>
-<br/>
-<img src="https://img.shields.io/badge/source-Private%20Project-dc2626?style=flat" alt="Private"/>
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
-![Discord OAuth](https://img.shields.io/badge/Discord_OAuth-5865F2?logo=discord&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-
-Full-stack security company management platform with patrol tracking, incident reporting, and role-based access control.
-
-<ul>
-  <li>👥 Employee management with RBAC</li>
-  <li>🚔 Patrol tracking &amp; assignment scheduling</li>
-  <li>💬 Internal messaging system</li>
-  <li>🔔 Discord webhook notifications</li>
-</ul>
-
-</td>
-<td width="50%" valign="top">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Vercel KV](https://img.shields.io/badge/Vercel_KV-000000?logo=vercel&logoColor=white&style=flat-square)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?logo=html5&logoColor=white&style=flat-square)
+![GitHub API](https://img.shields.io/badge/GitHub_API-181717?logo=github&logoColor=white&style=flat-square)
+![html2canvas](https://img.shields.io/badge/html2canvas-333?style=flat-square)
 
-Collaborative investigation board for law enforcement roleplay communities. Pin suspects, evidence and locations — connect the dots in real time.
+Spotify Wrapped but for your GitHub. Enter any username and get your developer personality, language breakdown, activity stats, and a shareable PNG card.
 
 <ul>
-  <li>🗂️ 14 pin types with custom fields</li>
-  <li>🗺️ Interactive map with markers and zones</li>
-  <li>🔗 Connection strings with labels and styles</li>
-  <li>👥 Real-time collaboration via live sync</li>
-  <li>🔗 Share links with view/edit permissions</li>
+  <li>🧠 Developer personality type based on your habits</li>
+  <li>📊 Language breakdown with animated bars</li>
+  <li>📅 Activity by day of week + peak coding hour</li>
+  <li>🗂️ Projects section with repo descriptions</li>
+  <li>🖼️ Export as PNG share card</li>
 </ul>
 
 </td>
 </tr>
+
 </table>
 
 ---
