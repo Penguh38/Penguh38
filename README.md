@@ -4,7 +4,7 @@
 
 <p>Developer from <img src="https://flagcdn.com/16x12/si.png" alt="Slovenia"/> Slovenia who got into coding through gaming and never stopped.<br>
 I build full-stack web apps, game interfaces, and whatever else catches my interest —<br>
-then actually deploy them and put them in front of real users.</p>
+then actually deploy them and put them in front of real users and my Chloe.</p>
 
 </div>
 
